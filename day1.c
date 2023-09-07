@@ -8,12 +8,13 @@ struct Time
 void writeTime()
 {
     // new change new
-    // nj
+    //
     // kvjvndkfj
 }
 void printTime()
 {
-    // smth
+    // smtc4dsvsvh
+    // scsdc
 }
 int main()
 {
