@@ -4,15 +4,15 @@ struct Time
 {
     int Hrs;
     int Mins;
-
-
 };
-    void writeTime(){
-
-    }
-    void printTime(){
-
-    }
+void writeTime()
+{
+    // new change new
+    //nj
+}
+void printTime()
+{
+}
 int main()
 {
 
