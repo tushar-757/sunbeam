@@ -8,10 +8,11 @@ struct Time
 void writeTime()
 {
     // new change new
-    //nj
+    // nj
 }
 void printTime()
 {
+    // smth
 }
 int main()
 {
