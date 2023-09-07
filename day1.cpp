@@ -1,5 +1,5 @@
 #include<iostream>
-#include<>
+using namespace std;
 
 struct Time{
     int Hrs;
@@ -9,7 +9,7 @@ struct Time{
     {
         cout<<"Enter HH and MM"<<endl;
 
-         scanf("%d %d",)
+         scanf("%d %d");
     }
     void printTime()
     {
